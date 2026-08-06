@@ -11,7 +11,7 @@ packages:
   gitServerName: srcGithubCtrl_Arti_expiry0708
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
-  gitBranch: main
+  gitBranch: second_branch
 configurationVariables:
   jdbcfunc.SAPTxStore.failFastMode: false
   jdbcfunc.SAPTxStore.connPoolAlias: SAP TxStore Pool
